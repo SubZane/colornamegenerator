@@ -1,0 +1,36 @@
+{
+	"red": [
+		"burgundy", "cardinal", "carmine", "cherry", "coral", "crimson", "currant",
+		"dive", "flame", "garnet", "maroon", "raspberry", "rose", "ruby", "salmon", "strawberry", "tomato", "vermillion", "wine"
+	],
+	"blue": [
+		"ocean", "aqua", "aquamarine", "azure", "cerulean", "cobalt", "delft", "navy", "peacock", "royal","sky", "steel", "turquoise", "violet"
+	],
+	"teal": [
+		"aqua", "aquamarine", "azure", "cerulean", "cobalt", "peacock", "royal", "sapphire", "sky", "steel", "turquoise", "violet"
+	],
+	"yellow": [
+		"apricotbeige", "buff", "butter", "buttercup", "butterscotch", "canary", "chartreuse", "citron", "gold", "lemon", "mustard", "ochre", "peach", "saffron", "straw", "topaz"
+	],
+	"orange": [
+		"apricotbeige", "buff", "butter", "buttercup", "butterscotch", "canary", "chartreuse", "citron", "gold", "lemon", "mustard", "ochre", "peach", "saffron", "straw", "topaz"
+	],
+	"green": [
+		"apple", "celery", "chartreuse", "emerald", "kelly", "lime", "mint", "mushy", "olive", "pistachio"
+	],
+	"white": [
+		"ivory", "marble", "milky", "oyster", "pearl", "platinum", "porcelain", "satin", "silver", "snow"
+	],
+	"purple": [
+		"amethyst", "fuchsia", "lavender", "lilac", "magenta", "mauve", "mulberry", "orchid", "pansy", "plum"
+	],
+	"black": [
+		"chicory", "ebony", "jet", "licorice", "tar"
+	],
+	"gray": [
+		"ashen", "dove", "shark", "steel"
+	],
+	"brown": [
+		"almond", "amber", "bay", "brandy", "bronze", "chocolate", "cinnamon", "coffee", "copper", "earth", "ginger", "hazel", "mahogany", "mousy", "nutmeg", "rotten", "rust", "sandy", "sorrel", "tan", "tawny", "walnut"
+	]
+}
